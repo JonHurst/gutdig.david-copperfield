@@ -1,7 +1,7 @@
 
 "And Mrs. Micawber?" I pursued.
 
-"Sir," said Mr. Micawber, "she is also, thank God, in statu quo."
+"Sir," said Mr. Micawber, "she is also, thank God, {{in statu quo}}."
 
 "And the children, Mr. Micawber?"
 
@@ -32,7 +32,7 @@ again.
 "I am most delighted to hear it," said Mr. Micawber. "It was at
 Canterbury where we last met. Within the shadow, I may figuratively
 say, of that religious edifice, immortalized by Chaucer, which was anciently
-the resort of Pilgrims from the remotest corners of – in short," said
+the resort of Pilgrims from the remotest corners of--in short," said
 Mr. Micawber, "in the immediate neighbourhood of the Cathedral."
 
 I replied that it was. Mr. Micawber continued talking as volubly as
@@ -48,15 +48,16 @@ surmounted difficulties, and conquered obstacles. You are no stranger to
 the fact, that there have been periods of my life, when it has been requisite
 that I should pause, until certain expected events should turn up; when it
 has been necessary that I should fall back, before making what I trust I
-shall not be accused of presumption in terming – a spring. The present
+shall not be accused of presumption in terming--a spring. The present
 is one of those momentous stages in the life of man. You find me, fallen
-back, for a spring; and I have every reason to believe that a vigorous
+back, {{for}} a spring; and I have every reason to believe that a vigorous
 leap will shortly be the result."
 
 I was expressing my satisfaction, when Mrs. Micawber came in; a
 little more slatternly than she used to be, or so she seemed now, to my
 unaccustomed eyes, but still with some preparation of herself for company,
 and with a pair of brown gloves on.
+
 "My dear," said Mr. Micawber, leading her towards me. "Here is
 a gentleman of the name of Copperfield, who wishes to renew his
 acquaintance with you."

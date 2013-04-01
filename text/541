@@ -1,9 +1,8 @@
-
 "Not so much so, as I could wish. But lawyers, sharks, and leeches, are
 not easily satisfied, you know! Not but what myself and Micawber have
 our hands pretty full, in general, on account of Mr. Wickfield's being
 hardly fit for any occupation, sir. But it's a pleasure as well as a duty, I
-am sure, to work for him. You've not been intimate with Mr. Wickfield,
+am sure, to work for {{him}}. You've not been intimate with Mr. Wickfield,
 I think, Mr. Traddles? I believe I've only had the honor of seeing you
 once myself?"
 
@@ -44,9 +43,9 @@ me tell you not to wait?"
 
 "Yes!" replied the immovable Mr. Micawber.
 
-"Then why do you wait?" said Uriah.
+"Then why {{do}} you wait?" said Uriah.
 
-"Because I – in short choose," replied Mr. Micawber, with a burst.
+"Because I--in short choose," replied Mr. Micawber, with a burst.
 
 Uriah's cheeks lost colour, and an unwholesome paleness, still faintly
 tinged by his pervading red, overspread them. He looked at Mr. Micawber
@@ -58,7 +57,7 @@ along! I'll talk to you presently."
 
 "If there is a scoundrel on this earth," said Mr. Micawber, suddenly
 breaking out again with the utmost vehemence, "with whom I have already
-talked too much, that scoundrel's name is – Heep!"
+talked too much, that scoundrel's name is--{{Heep}}!"
 
 Uriah fell back, as if he had been struck or stung. Looking slowly
 round upon us with the darkest and wickedest expression that his face
