@@ -9,6 +9,7 @@
     <note>"boat-house" and "boathouse" used inconsistetly</note>
     <note>"church-yard" and "churchyard" used inconsistently</note>
     <note>"door-step" and "doorstep" used inconsistently</note>
+    <note>"enquir*" and "inquir*" used inconsistently</note>
     <note>"every one" and "everyone" used inconsistently</note>
     <note>"forefinger" and "fore-finger" used inconsistently</note>
     <note>"recall" and "recal" used inconsistently</note>
@@ -345,6 +346,7 @@
       </tags>
       <notes>
         <note>13: "air" changed to "hair"</note>
+        <note>14: "canvass" changed to "canvas"</note>
         <note>17: "a-top" is correct</note>
       </notes>
     </page>
@@ -372,6 +374,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
+        <note>15: "Pointing" changed to "pointing"</note>
         <note>30: "similies" is correct</note>
       </notes>
     </page>
@@ -412,6 +415,8 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/042" parse="text" /></text>
       <notes>
+        <note>4: "did'nt" changed to "didn't"</note>
+        <note>9: "have'nt" changed to "haven't</note>
         <note>25: "old'un" changed to "old 'un"</note>
       </notes>
     </page>
@@ -669,6 +674,9 @@
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
+      <notes>
+        <note>27: "Mr" changed to "Mr."</note>
+      </notes>
     </page>
     <page id="074">
       <image src="images/074.png">
@@ -789,6 +797,9 @@
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
+      <notes>
+        <note>43: "to day" changed to "to-day"</note>
+      </notes>
     </page>
     <page id="090">
       <image src="images/090.png">
@@ -1479,6 +1490,7 @@
       <text><xi:include encoding="utf-8" href="text/178" parse="text" /></text>
       <notes>
         <note>17: comma replaced with period</note>
+        <note>29: "can not" changed to "cannot"</note>
       </notes>
     </page>
     <page id="179">
@@ -2406,7 +2418,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>53: missing "u" added to "yo"</note>
+        <note>53: missing "u," added to "yo"</note>
       </notes>
     </page>
     <page id="293">
