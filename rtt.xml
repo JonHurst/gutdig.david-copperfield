@@ -6,7 +6,8 @@
   <notes>
     <note>3 cases of "havn't" changed to "haven't"</note>
     <note>"griping" is correct (archaic spelling for gripping)</note>
-    <note>"sate" is correct (archainc spelling for sat)</note>
+    <note>"sate" is correct (archaic spelling for sat)</note>
+    <note>"a numble" is correct (dialect)</note>
     <note>"bed-room" and "bedroom" used inconsistently</note>
     <note>"boat-house" and "boathouse" used inconsistetly</note>
     <note>"church-yard" and "churchyard" used inconsistently</note>
@@ -2289,7 +2290,6 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/277" parse="text" /></text>
       <notes>
-        <note>46: "a numble" changed to "an umble"</note>
         <note>47: "ouse" is correct (dialect)</note>
       </notes>
     </page>
@@ -3883,6 +3883,9 @@
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
+      <notes>
+        <note>33: comma questionable</note>
+      </notes>
     </page>
     <page id="472">
       <image src="images/472.png">
@@ -4033,6 +4036,9 @@
         <lines>643,856,1033,1230,1387,1583,1774,1976,2153,2330,2531,2721,2915,3090,3271,3483,3664,3841,4023,4215,4426,4614,4804,4983,5158,5363,5559,5743,5933,6125,6308,6479,6688,6874,7064,7252,7440,7607,7815,7987,8177,8385,8575,8743,8950,9136,9322,9498,9686</lines>
       </image>
       <text><xi:include encoding="utf-8" href="text/491" parse="text" /></text>
+      <notes>
+        <note>45: "to night" changed to "to-night"</note>
+      </notes>
     </page>
     <page id="492">
       <image src="images/492.png">
