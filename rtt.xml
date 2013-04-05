@@ -5,6 +5,7 @@
   <blurb>First edition.</blurb>
   <notes>
     <note>3 cases of "havn't" changed to "haven't"</note>
+    <note>"forgiv" is correct (dialect?)</note>
     <note>"griping" is correct (archaic spelling for gripping)</note>
     <note>"sate" is correct (archaic spelling for sat)</note>
     <note>"a numble" is correct (dialect)</note>
@@ -285,7 +286,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>44: "don’t" changed to "dont"</note>
+        <note>43: "dont" changed to "don't"</note>
       </notes>
     </page>
     <page id="028">
@@ -318,7 +319,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>"ut" changed to "but"</note>
+        <note>57: "ut" changed to "but"</note>
       </notes>
     </page>
     <page id="032">
@@ -4142,7 +4143,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/506" parse="text" /></text>
       <notes>
-        <note>40: "What" changed to "what"</note>
+        <note>40: capitalisation of "What" questionable; left as text</note>
       </notes>
     </page>
     <page id="507">
@@ -4156,6 +4157,9 @@
         <lines>689,871,1064,1253,1448,1641,1855,2044,2211,2406,2614,2784,2981,3169,3362,3571,3746,3956,4147,4315,4529,4696,4891,5082,5271,5487,5678,5850,6062,6231,6444,6636,6808,7018,7209,7378,7569,7781,7951,8178,8368,8525,8736,8928,9119,9291,9503,9696</lines>
       </image>
       <text><xi:include encoding="utf-8" href="text/508" parse="text" /></text>
+      <notes>
+        <note>8: "could'nt" changed to "couldn't"</note>
+      </notes>
     </page>
     <page id="509">
       <image src="images/509.png">
@@ -4456,6 +4460,9 @@
         <lines>635,834,1016,1176,1353,1538,1737,1919,2097,2263,2464,2642,2822,3002,3163,3362,3521,3706,3886,4064,4251,4430,4611,4791,4994,5155,5358,5538,5698,5901,6062,6243,6446,6603,6806,6986,7145,7325,7505,7708,7868,8069,8230,8412,8613,8773,8974,9154,9336,9516,9698</lines>
       </image>
       <text><xi:include encoding="utf-8" href="text/542" parse="text" /></text>
+      <notes>
+        <note>36: "Mr" changed to "Mr."</note>
+      </notes>
     </page>
     <page id="543">
       <image src="images/543.png">
@@ -4772,6 +4779,7 @@
       <text><xi:include encoding="utf-8" href="text/579" parse="text" /></text>
       <tags class="inline_formatting">
         <tag>italics</tag>
+        <tag>smallcaps</tag>
       </tags>
     </page>
     <page id="580">
@@ -4912,6 +4920,9 @@
         <lines>659,850,1040,1198,1402,1591,1746,1932,2119,2321,2485,2692,2880,3040,3224,3408,3617,3801,3985,4149,4333,4538,4722,4886,5072,5279,5439,5647,5809,6014,6177,6362,6548,6733,6914,7099,7307,7471,7656,7840,8042,8208,8408,8576,8781,8965,9127,9327,9515,9698</lines>
       </image>
       <text><xi:include encoding="utf-8" href="text/597" parse="text" /></text>
+      <notes>
+        <note>64: "n" changed to "in"</note>
+      </notes>
     </page>
     <page id="598">
       <image src="images/598.png">
@@ -5135,6 +5146,9 @@
         <lines>634,835,1006,1211,1393,1578,1760,1943,2122,2292,2492,2653,2839,3027,3233,3398,3602,3787,3973,4155,4343,4524,4690,4877,5059,5244,5448,5632,5818,6005,6189,6355,6744,6937,7120,7299,7496,7650,7830,8040,8400,8588,8776,8944,9137,9323,9519,9678</lines>
       </image>
       <text><xi:include encoding="utf-8" href="text/625" parse="text" /></text>
+      <tags class="inline_formatting">
+        <tag>smallcaps</tag>
+      </tags>
       <tags class="block_formatting">
         <tag>thought_break</tag>
       </tags>
