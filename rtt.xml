@@ -1511,6 +1511,9 @@
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
+      <notes>
+        <note>27: Closing quote added</note>
+      </notes>
     </page>
     <page id="181">
       <image src="images/181.png">
@@ -2822,6 +2825,7 @@
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
+      <notes><note>42: Closing quote added</note></notes>
     </page>
     <page id="339">
       <image src="images/339.png">
@@ -3225,6 +3229,7 @@
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
+      <notes><note>54: Closing quote added</note></notes>
     </page>
     <page id="389">
       <image src="images/389.png">
@@ -3236,6 +3241,7 @@
       </tags>
       <notes>
         <note>25: Erroneous " removed</note>
+        <note>52: Closing quote added</note>
       </notes>
     </page>
     <page id="390">
@@ -3702,6 +3708,7 @@
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
+      <notes><note>29: Closing quote added</note></notes>
     </page>
     <page id="451">
       <image src="images/451.png">
