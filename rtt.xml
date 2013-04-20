@@ -243,7 +243,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>14: "go" changed to "ago"</note>
+        <note line="14">"go" changed to "ago"</note>
       </notes>
     </page>
     <page id="024">
@@ -274,7 +274,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>61: "dose" changed to "doze"</note>
+        <note line="61">"dose" changed to "doze"</note>
       </notes>
     </page>
     <page id="027">
@@ -286,7 +286,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>43: "dont" changed to "don't"</note>
+        <note line="43">"dont" changed to "don't"</note>
       </notes>
     </page>
     <page id="028">
@@ -319,7 +319,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>57: "ut" changed to "but"</note>
+        <note line="57">"ut" changed to "but"</note>
       </notes>
     </page>
     <page id="032">
@@ -337,7 +337,7 @@
         <tag>heading</tag>
       </tags>
       <notes>
-        <note>29: "spongey" changed to "spongy"</note>
+        <note line="29">"spongey" changed to "spongy"</note>
       </notes>
     </page>
     <page id="034">
@@ -349,9 +349,9 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>13: "air" changed to "hair"</note>
-        <note>14: "canvass" changed to "canvas"</note>
-        <note>17: "a-top" is correct</note>
+        <note line="13">"air" changed to "hair"</note>
+        <note line="14">"canvass" changed to "canvas"</note>
+        <note line="17">"a-top" is correct</note>
       </notes>
     </page>
     <page id="035">
@@ -378,8 +378,8 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>15: "Pointing" changed to "pointing"</note>
-        <note>30: "similies" is correct</note>
+        <note line="15">"Pointing" changed to "pointing"</note>
+        <note line="30">"similies" is correct</note>
       </notes>
     </page>
     <page id="038">
@@ -391,8 +391,8 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>8: "was'nt" changed to "wasn't"</note>
-        <note>31: Closing quote added</note>
+        <note line="8">"was'nt" changed to "wasn't"</note>
+        <note line="31">Closing quote added</note>
       </notes>
     </page>
     <page id="039">
@@ -419,9 +419,9 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/042" parse="text" /></text>
       <notes>
-        <note>4: "did'nt" changed to "didn't"</note>
-        <note>9: "have'nt" changed to "haven't</note>
-        <note>25: "old'un" changed to "old 'un"</note>
+        <note line="4">"did'nt" changed to "didn't"</note>
+        <note line="9">"have'nt" changed to "haven't</note>
+        <note line="25">"old'un" changed to "old 'un"</note>
       </notes>
     </page>
     <page id="043">
@@ -505,7 +505,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>27: "stupified" is correct</note>
+        <note line="27">"stupified" is correct</note>
       </notes>
     </page>
     <page id="054">
@@ -535,7 +535,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/057" parse="text" /></text>
       <notes>
-        <note>32: "becase" changed to "because"</note>
+        <note line="32">"becase" changed to "because"</note>
       </notes>
     </page>
     <page id="058">
@@ -679,7 +679,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>27: "Mr" changed to "Mr."</note>
+        <note line="27">"Mr" changed to "Mr."</note>
       </notes>
     </page>
     <page id="074">
@@ -718,7 +718,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/078" parse="text" /></text>
       <notes>
-        <note>1: "what" changed to "What"</note>
+        <note line="1">"what" changed to "What"</note>
       </notes>
     </page>
     <page id="079">
@@ -802,7 +802,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>43: "to day" changed to "to-day"</note>
+        <note line="43">"to day" changed to "to-day"</note>
       </notes>
     </page>
     <page id="090">
@@ -842,7 +842,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/094" parse="text" /></text>
       <notes>
-        <note>38: misplaced quote removed</note>
+        <note line="38">misplaced quote removed</note>
       </notes>
     </page>
     <page id="095">
@@ -931,8 +931,8 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/105" parse="text" /></text>
       <notes>
-        <note>43: "controuled" is correct</note>
-        <note>59: single quote changed to double"</note>
+        <note line="43">"controuled" is correct</note>
+        <note line="59">single quote changed to double"</note>
       </notes>
     </page>
     <page id="106">
@@ -1010,7 +1010,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>28: "sh'is" used (possibly "sh' is")</note>
+        <note line="28">"sh'is" used (possibly "sh' is")</note>
       </notes>
     </page>
     <page id="115">
@@ -1493,8 +1493,8 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/178" parse="text" /></text>
       <notes>
-        <note>17: comma replaced with period</note>
-        <note>29: "can not" changed to "cannot"</note>
+        <note line="17">comma replaced with period</note>
+        <note line="29">"can not" changed to "cannot"</note>
       </notes>
     </page>
     <page id="179">
@@ -1512,7 +1512,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>27: Closing quote added</note>
+        <note line="27">Closing quote added</note>
       </notes>
     </page>
     <page id="181">
@@ -1608,7 +1608,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/193" parse="text" /></text>
       <notes>
-        <note>"escrutoire" is correct</note>
+        <note line="34">"escrutoire" is correct</note>
       </notes>
     </page>
     <page id="194">
@@ -1846,7 +1846,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/222" parse="text" /></text>
       <notes>
-        <note>24: "plyed" changed to "played"</note>
+        <note line="24">"plyed" changed to "played"</note>
       </notes>
     </page>
     <page id="223">
@@ -1951,7 +1951,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>6: "ewents" is correct (dialect)</note>
+        <note line="6">"ewents" is correct (dialect)</note>
       </notes>
     </page>
     <page id="235">
@@ -2048,7 +2048,7 @@
         <tag>smallcaps</tag>
       </tags>
       <notes>
-        <note>19: closing quote added</note>
+        <note line="19">closing quote added</note>
       </notes>
     </page>
     <page id="247">
@@ -2081,7 +2081,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/250" parse="text" /></text>
       <notes>
-        <note>"kind-naturd" changed to "kind-natur'd"</note>
+        <note line="9">"kind-naturd" changed to "kind-natur'd"</note>
       </notes>
     </page>
     <page id="251">
@@ -2261,7 +2261,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/273" parse="text" /></text>
       <notes>
-        <note>15: ' changed to "</note>
+        <note line="15">' changed to "</note>
       </notes>
     </page>
     <page id="274">
@@ -2294,7 +2294,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/277" parse="text" /></text>
       <notes>
-        <note>47: "ouse" is correct (dialect)</note>
+        <note line="47">"ouse" is correct (dialect)</note>
       </notes>
     </page>
     <page id="278">
@@ -2330,7 +2330,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>54: "ed" is correct (dialect)</note>
+        <note line="54">"ed" is correct (dialect)</note>
       </notes>
     </page>
     <page id="282">
@@ -2424,7 +2424,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>53: missing "u," added to "yo"</note>
+        <note line="53">missing "u," added to "yo"</note>
       </notes>
     </page>
     <page id="293">
@@ -2636,8 +2636,8 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>12: closing quote added</note>
-        <note>21: correct quoting is unclear; left as text</note>
+        <note line="12">closing quote added</note>
+        <note line="21">correct quoting is unclear; left as text</note>
       </notes>
     </page>
     <page id="317">
@@ -2814,7 +2814,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/337" parse="text" /></text>
       <notes>
-        <note>45: Closing quote added</note>
+        <note line="45">Closing quote added</note>
       </notes>
     </page>
     <page id="338">
@@ -2825,7 +2825,7 @@
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
-      <notes><note>42: Closing quote added</note></notes>
+      <notes><note line="42">Closing quote added</note></notes>
     </page>
     <page id="339">
       <image src="images/339.png">
@@ -2842,7 +2842,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/340" parse="text" /></text>
       <notes>
-        <note>44: "wont" changed to "won't"</note>
+        <note line="44">"wont" changed to "won't"</note>
       </notes>
     </page>
     <page id="341">
@@ -2995,7 +2995,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/359" parse="text" /></text>
       <notes>
-        <note>56: "Your's" changed to "Yours"</note>
+        <note line="56">"Your's" changed to "Yours"</note>
       </notes>
     </page>
     <page id="360">
@@ -3022,7 +3022,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>20: "aud" changed to "and"</note>
+        <note line="20">"aud" changed to "and"</note>
       </notes>
     </page>
     <page id="363">
@@ -3115,7 +3115,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/374" parse="text" /></text>
       <notes>
-        <note>16: Extra opening quote removed</note>
+        <note line="16">Extra opening quote removed</note>
       </notes>
     </page>
     <page id="375">
@@ -3163,7 +3163,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>35: "too" changed to "two"</note>
+        <note line="35">"too" changed to "two"</note>
       </notes>
     </page>
     <page id="381">
@@ -3175,7 +3175,7 @@
         <tag>smallcaps</tag>
       </tags>
       <notes>
-        <note>31: ' changed to "</note>
+        <note line="31">' changed to "</note>
       </notes>
     </page>
     <page id="382">
@@ -3229,7 +3229,7 @@
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
-      <notes><note>54: Closing quote added</note></notes>
+      <notes><note line="54">Closing quote added</note></notes>
     </page>
     <page id="389">
       <image src="images/389.png">
@@ -3240,8 +3240,8 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>25: Erroneous " removed</note>
-        <note>52: Closing quote added</note>
+        <note line="25">Erroneous " removed</note>
+        <note line="52">Closing quote added</note>
       </notes>
     </page>
     <page id="390">
@@ -3295,7 +3295,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/396" parse="text" /></text>
       <notes>
-        <note>18: Erroneous , removed</note>
+        <note line="18">Erroneous , removed</note>
       </notes>
     </page>
     <page id="397">
@@ -3319,7 +3319,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/399" parse="text" /></text>
       <notes>
-        <note>59: "coroboration" changed to "corroboration"</note>
+        <note line="59">"coroboration" changed to "corroboration"</note>
       </notes>
     </page>
     <page id="400">
@@ -3517,7 +3517,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/425" parse="text" /></text>
       <notes>
-        <note>39: "Peggoty" changed to "Peggotty"</note>
+        <note line="39">"Peggoty" changed to "Peggotty"</note>
       </notes>
     </page>
     <page id="426">
@@ -3708,7 +3708,7 @@
       <tags class="inline_formatting">
         <tag>italics</tag>
       </tags>
-      <notes><note>29: Closing quote added</note></notes>
+      <notes><note line="29">Closing quote added</note></notes>
     </page>
     <page id="451">
       <image src="images/451.png">
@@ -3719,7 +3719,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>5: ” added</note>
+        <note line="5">” added</note>
       </notes>
     </page>
     <page id="452">
@@ -3734,7 +3734,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/453" parse="text" /></text>
       <notes>
-        <note>27: "mavellous" changed to "marvellous"</note>
+        <note line="27">"mavellous" changed to "marvellous"</note>
       </notes>
     </page>
     <page id="454">
@@ -3787,7 +3787,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>17: "give" changed to "gives"</note>
+        <note line="17">"give" changed to "gives"</note>
       </notes>
     </page>
     <page id="460">
@@ -3892,7 +3892,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>33: comma questionable</note>
+        <note line="33">comma questionable</note>
       </notes>
     </page>
     <page id="472">
@@ -3994,7 +3994,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/484" parse="text" /></text>
       <notes>
-        <note>52: ” added</note>
+        <note line="52">” added</note>
       </notes>
     </page>
     <page id="485">
@@ -4009,7 +4009,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/486" parse="text" /></text>
       <notes>
-        <note>55: "boatmens’" changed to "boatmen’s"</note>
+        <note line="55">"boatmens’" changed to "boatmen’s"</note>
       </notes>
     </page>
     <page id="487">
@@ -4045,7 +4045,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/491" parse="text" /></text>
       <notes>
-        <note>45: "to night" changed to "to-night"</note>
+        <note line="45">"to night" changed to "to-night"</note>
       </notes>
     </page>
     <page id="492">
@@ -4150,7 +4150,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/506" parse="text" /></text>
       <notes>
-        <note>40: capitalisation of "What" questionable; left as text</note>
+        <note line="40">capitalisation of "What" questionable; left as text</note>
       </notes>
     </page>
     <page id="507">
@@ -4165,7 +4165,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/508" parse="text" /></text>
       <notes>
-        <note>8: "could'nt" changed to "couldn't"</note>
+        <note line="8">"could'nt" changed to "couldn't"</note>
       </notes>
     </page>
     <page id="509">
@@ -4266,7 +4266,7 @@
         <tag>smallcaps</tag>
       </tags>
       <notes>
-        <note>9: "waived" changed to "waved"</note>
+        <note line="9">"waived" changed to "waved"</note>
       </notes>
     </page>
     <page id="518">
@@ -4449,7 +4449,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>52: , changed to .</note>
+        <note line="52">, changed to .</note>
       </notes>
     </page>
     <page id="541">
@@ -4468,7 +4468,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/542" parse="text" /></text>
       <notes>
-        <note>36: "Mr" changed to "Mr."</note>
+        <note line="36">"Mr" changed to "Mr."</note>
       </notes>
     </page>
     <page id="543">
@@ -4646,7 +4646,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>42: "earnestnesss" changed to "earnestness"</note>
+        <note line="42">"earnestnesss" changed to "earnestness"</note>
       </notes>
     </page>
     <page id="562">
@@ -4846,7 +4846,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>55: "aud" changed to "and"</note>
+        <note line="55">"aud" changed to "and"</note>
       </notes>
     </page>
     <page id="587">
@@ -4928,7 +4928,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/597" parse="text" /></text>
       <notes>
-        <note>64: "n" changed to "in"</note>
+        <note line="64">"n" changed to "in"</note>
       </notes>
     </page>
     <page id="598">
@@ -4995,7 +4995,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/605" parse="text" /></text>
       <notes>
-        <note>42: "Mr Dick" changed to "Mr. Dick"</note>
+        <note line="42">"Mr Dick" changed to "Mr. Dick"</note>
       </notes>
     </page>
     <page id="606">
@@ -5118,7 +5118,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/620" parse="text" /></text>
       <notes>
-        <note>33: ” added</note>
+        <note line="33">” added</note>
       </notes>
     </page>
     <page id="621">
@@ -5196,7 +5196,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>4: “ moved</note>
+        <note line="4">“ moved</note>
       </notes>
     </page>
     <page id="630">
@@ -5208,7 +5208,7 @@
         <tag>italics</tag>
       </tags>
       <notes>
-        <note>43: "old'un" changed to "old 'un"</note>
+        <note line="43">"old'un" changed to "old 'un"</note>
       </notes>
     </page>
     <page id="631">
