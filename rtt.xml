@@ -3297,7 +3297,6 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/396" parse="text" /></text>
       <notes>
-        <note line="3">"D.J.M." should possibly be "D., J.M."; text from printed edition retained</note>
         <note line="18">Erroneous comma removed</note>
       </notes>
     </page>
@@ -3390,6 +3389,9 @@
         <lines>739,919,1146,1325,1529,1738,1935,2159,2364,2541,2753,2954,3177,3363,3562,3763,3967,4196,4375,4585,4792,5011,5217,5396,5624,5803,6032,6236,6417,6642,6846,7025,7234,7458,7639,7844,8042,8269,8450,8656,8861,9082,9286,9489,9688</lines>
       </image>
       <text><xi:include encoding="utf-8" href="text/408" parse="text" /></text>
+      <notes>
+        <note line="3">"D.J.M." should possibly be "D., J.M."; text from printed edition retained</note>
+      </notes>
     </page>
     <page id="409">
       <image src="images/409.png">
