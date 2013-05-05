@@ -421,6 +421,7 @@
       <notes>
         <note line="4">"did’nt" changed to "didn’t"</note>
         <note line="9">"have’nt" changed to "haven’t</note>
+        <note line="9">"Mrs" changed to "Mrs."</note>
         <note line="25">"old’un" changed to "old ’un"</note>
       </notes>
     </page>
@@ -3296,6 +3297,7 @@
       </image>
       <text><xi:include encoding="utf-8" href="text/396" parse="text" /></text>
       <notes>
+        <note line="3">"D.J.M." should possibly be "D., J.M."; text from printed edition retained</note>
         <note line="18">Erroneous comma removed</note>
       </notes>
     </page>
@@ -3397,6 +3399,10 @@
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
+      <notes>
+        <note line="33">comma after "incapable" questionable; text from printed edition
+        retained</note>
+      </notes>
     </page>
     <page id="410">
       <image src="images/410.png">
@@ -4493,6 +4499,9 @@
       <tags class="inline_formatting">
         <tag>smallcaps</tag>
       </tags>
+      <notes>
+        <note line="40">"I O U's" changed to "I. O. U.'s"</note>
+      </notes>
     </page>
     <page id="545">
       <image src="images/545.png">
