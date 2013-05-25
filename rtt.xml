@@ -3915,6 +3915,9 @@
       <tags class="block_formatting">
         <tag>heading</tag>
       </tags>
+      <tags class="inline_formatting">
+        <tag>smallcaps</tag>
+      </tags>
     </page>
     <page id="473">
       <image src="images/473.png">
